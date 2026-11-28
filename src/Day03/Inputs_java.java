@@ -1,4 +1,4 @@
-package Day04;
+package Day03;
 import java.util.Scanner;
 public class Inputs_java {
     public static void main(String[] args){
